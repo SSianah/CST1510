@@ -13,7 +13,7 @@ Delete these instructions as you replace them with your code.
 """
 
 # ==================================================================== INPUT
-label = input("Enter a hostname")
+label = input("Enter a hostname: ")
 first = float(input("Enter your number: "))
 second= float(input("Enter your number: "))
 difference =  second - first
